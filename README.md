@@ -19,7 +19,8 @@ This project focuses on sentiment analysis of IMDb movie reviews. The goal is to
 
 ## Dataset
 
-The dataset used in this project is the "IMDB_Dataset.csv" containing 50,000 movie reviews labeled as positive or negative.
+The dataset used in this project is sourced from Kaggle, specifically the [IMDb Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). It includes a diverse collection of movie reviews labeled as positive or negative. It contains total 50,000 reviews. It is provided in the data directory of the repository [CLICK HERE](Report/application_of_graph_report.pdf)
+
 
 ## Exploratory Data Analysis
 
