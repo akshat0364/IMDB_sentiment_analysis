@@ -64,8 +64,9 @@ After hyperparameter tuning, the Linear Support Vector Classifier (LinearSVC) ac
 To use the sentiment analysis model:
 
 1. Clone the repository.
-2. Install the required dependencies (`requirements.txt`).
-3. Execute the provided Jupyter notebook or script to train and test the model.
+2. Download the dataset from [Kaggle](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+3. Install the required dependencies (`requirements.txt`).
+4. Execute the provided Jupyter notebook or script to train and test the model.
 
 ## Dependencies
 
