@@ -16,12 +16,10 @@ This project focuses on sentiment analysis of IMDb movie reviews. The goal is to
 - [Best Model](#best-model)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
-The dataset used in this project is the "IMDB Dataset" containing 50,000 movie reviews labeled as positive or negative. It is stored in a CSV file named `IMDB Dataset.csv`.
+The dataset used in this project is the "IMDB_Dataset.csv" containing 50,000 movie reviews labeled as positive or negative.
 
 ## Exploratory Data Analysis
 
